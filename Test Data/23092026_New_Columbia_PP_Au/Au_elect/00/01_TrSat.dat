@@ -1,0 +1,17 @@
+File Name: 01_TrSat.dat
+File Data: 23/09/2026	17:12:53
+Start V: 0
+Step V: 0
+Stop V: 0
+Range V: 20
+Delay(ms): 0
+Auorange: yes
+Sweep type: log
+Instrument Meter: SM2614
+Time(ms)	Vdrain(V)	Idrain(A)	Vgate(V)	Igate(A)
+0.0000E+0	-1.0000E+1	-4.1279E-10	1.0000E+1	8.7342E-10
+1.0000E+3	-1.0000E+1	-2.6656E-10	9.5000E+0	-3.1423E-10
+1.5000E+3	-1.0000E+1	-2.3072E-10	9.0000E+0	-2.0984E-9
+2.0000E+3	-1.0000E+1	-2.0806E-10	8.5000E+0	-2.4387E-9
+2.5000E+3	-1.0000E+1	-1.9334E-10	8.0000E+0	-2.5030E-9
+3.0000E+3	-1.0000E+1	-1.8291E-10	7.5000E+0	-2.5533E-9
