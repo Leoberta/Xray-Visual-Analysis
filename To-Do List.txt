@@ -1,0 +1,8 @@
+###  TO-DO LIST ###
+1) First do the basic code for the data anlysis copy from other analysis
+2) Do the tests fro it 
+3) Load it on github 
+4) Try to execute with Snakemake
+5) reapet with the other parts of the analysis 
+
+If the tests fails after some implemetation try to use some debugging tool
