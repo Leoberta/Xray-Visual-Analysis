@@ -154,7 +154,8 @@ def fit_ofet_lin(Vg, sqrtI, logI, init_mask, end_mask, init_ss, end_ss):
     return popt,  sigma_mu, sigma_vth, spopt
 
 
-    
+Ci_W_L = 1e-6
+
 # Definizione del modello di fitting
 def sat_transfer(x, mu, Vth):
     return 0.5 * mu * Ci_W_L * (x - Vth)**2
