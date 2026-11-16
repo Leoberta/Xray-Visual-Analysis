@@ -1,3 +1,7 @@
-Test Data\23092026_New_Columbia_PP_Au
 *.json
 *.pyc
+.pytest_cache
+__pycache__
+Test Data
+visual.py
+GRAF_TIPS_Anallysis26.ipynb
